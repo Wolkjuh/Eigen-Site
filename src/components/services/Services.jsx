@@ -19,26 +19,6 @@ const Services = () => {
             <BiCheck className='service__list_icon' />
             <p>#SOON</p>
           </li>
-          <li>
-            <BiCheck className='service__list_icon' />
-            <p>#SOON</p>
-          </li>
-          <li>
-            <BiCheck className='service__list_icon' />
-            <p>#SOON</p>
-          </li>
-          <li>
-            <BiCheck className='service__list_icon' />
-            <p>#SOON</p>
-          </li>
-          <li>
-            <BiCheck className='service__list_icon' />
-            <p>#SOON</p>
-          </li>
-          <li>
-            <BiCheck className='service__list_icon' />
-            <p>#SOON</p>
-          </li>
         </ul>
       </article>
 
@@ -54,34 +34,6 @@ const Services = () => {
             <BiCheck className='service__list_icon' />
             <p>#SOON</p>
           </li>
-          <li>
-            <BiCheck className='service__list_icon' />
-            <p>#SOON</p>
-          </li>
-          <li>
-            <BiCheck className='service__list_icon' />
-            <p>#SOON</p>
-          </li>
-          <li>
-            <BiCheck className='service__list_icon' />
-            <p>#SOON</p>
-          </li>
-          <li>
-            <BiCheck className='service__list_icon' />
-            <p>#SOON</p>
-          </li>
-          <li>
-            <BiCheck className='service__list_icon' />
-            <p>#SOON</p>
-          </li>
-          <li>
-            <BiCheck className='service__list_icon' />
-            <p>#SOON</p>
-          </li>
-          <li>
-            <BiCheck className='service__list_icon' />
-            <p>#SOON</p>
-          </li>
         </ul>
       </article>
 
@@ -93,30 +45,6 @@ const Services = () => {
         </div>
 
         <ul className="service__list">
-          <li>
-            <BiCheck className='service__list_icon' />
-            <p>#SOON</p>
-          </li>
-          <li>
-            <BiCheck className='service__list_icon' />
-            <p>#SOON</p>
-          </li>
-          <li>
-            <BiCheck className='service__list_icon' />
-            <p>#SOON</p>
-          </li>
-          <li>
-            <BiCheck className='service__list_icon' />
-            <p>#SOON</p>
-          </li>
-          <li>
-            <BiCheck className='service__list_icon' />
-            <p>#SOON</p>
-          </li>
-          <li>
-            <BiCheck className='service__list_icon' />
-            <p>#SOON</p>
-          </li>
           <li>
             <BiCheck className='service__list_icon' />
             <p>#SOON</p>

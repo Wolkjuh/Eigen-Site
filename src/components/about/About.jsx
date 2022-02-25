@@ -40,9 +40,11 @@ const About = () => {
 
           </div>
             <p>
-              Lorem ipsum dolor sit, amet consectetur adipisicing elit. Illo asperiores, aspernatur alias accusantium dolorem 
-              cupiditate perferendis nemo soluta perspiciatis velit. 
-              Deleniti temporibus doloribus possimus voluptatibus adipisci perferendis aliquid rerum magnam.
+              Mijn naam is Bart van Wijk en ik ben 16 jaartjes jong. <br />
+              Ik ben freelancer op het gebied van web development maar sta in de avond achter de bar bij de Griek. <br />
+              <br />
+              Ik doe een versnelde opleiding (MBO 4 Software Developer) en heb de ambitie om door te gaan naar het HBO. <br />
+              Ik ben nog op zoek naar een stageplek voor mijn versnelde opleiding. <br />
             </p>
 
             <a href="#contact" className='btn btn-primary'>Let's Talk</a>

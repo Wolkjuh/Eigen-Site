@@ -1,15 +1,16 @@
 import React from 'react'
 import './portfolio.css'
 import SOON from '../../assets/soon.jpg'
+import IMG1 from '../../assets/portfoliobartvwijk.png'
 
 const data = [
 
   {
     id: 1,
-    image: SOON,
-    title: '#SOON',
-    github: 'https://github.com',
-    demo: 'https://dribble.com'
+    image: IMG1,
+    title: 'Portfolio Site',
+    github: 'https://github.com/Wolkjuh/Eigen-Site',
+    demo: 'https://bartvanwijkzk.nl'
   },
   {
     id: 2,
