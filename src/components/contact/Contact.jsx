@@ -45,14 +45,14 @@ const Contact = () => {
             <a href="https://api.whatsapp.com/send?phone=#SOON" target="_blank">Stuur me een bericht</a>
           </article>
         </div>
-
-        <form ref={form} onSubmit={sendEmail}>
+        
+        {/* <form ref={form} onSubmit={sendEmail}>
           <input type="text" name="name" placeholder='Je Volledige Naam..' required/>
           <input type="email" name="email" placeholder='Je Email..' required/>
           <textarea name="message" rows="7" placeholder='Je Bericht..' required></textarea>
           <button type="submit" className='btn btn-primary'>Stuur Bericht!</button>
-        </form>
-
+        </form> */}
+        
 
       </div>
 

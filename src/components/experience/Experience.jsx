@@ -1,6 +1,8 @@
 import React from 'react'
 import './experience.css'
 import {BsPatchCheckFill} from 'react-icons/bs'
+import {AiOutlineStar} from 'react-icons/ai'
+import {AiFillStar} from 'react-icons/ai'
 
 const Experience = () => {
   return (
@@ -19,35 +21,78 @@ const Experience = () => {
               <BsPatchCheckFill className='experience__details-icon'/>
               <div>
                 <h4>HTML</h4>
-                <small className='text-light'>Ervaren</small>
+                <small>
+                  <AiFillStar className='text-light'/>
+                  <AiFillStar className='text-light'/>
+                  <AiFillStar className='text-light'/>
+                  <AiFillStar className='text-light'/>
+                  <AiFillStar className='text-light'/>
+                </small>
               </div>
             </article>
             <article className="experience__details">
               <BsPatchCheckFill className='experience__details-icon'/>
               <div>
                 <h4>CSS</h4>
-                <small className='text-light'>Bekwaam</small>
+                <small>
+                  <AiFillStar className='text-light'/>
+                  <AiFillStar className='text-light'/>
+                  <AiFillStar className='text-light'/>
+                  <AiFillStar className='text-light'/>
+                  <AiOutlineStar className='text-light'/>
+                </small>
               </div>
             </article>
             <article className="experience__details">
               <BsPatchCheckFill className='experience__details-icon'/>
               <div>
                 <h4>JavaScript</h4>
-                <small className='text-light'>Bekwaam</small>
-              </div>
-            </article>
-            <article className="experience__details">
-              <BsPatchCheckFill className='experience__details-icon'/>
-              <div>
-                <h4>Bootstrap</h4>
-                <small className='text-light'>Beginnend</small>
+                <small>
+                  <AiFillStar className='text-light'/>
+                  <AiFillStar className='text-light'/>
+                  <AiFillStar className='text-light'/>
+                  <AiOutlineStar className='text-light'/>
+                  <AiOutlineStar className='text-light'/>
+                </small>
               </div>
             </article>
             <article className="experience__details">
               <BsPatchCheckFill className='experience__details-icon'/>
               <div>
                 <h4>React</h4>
-                <small className='text-light'>Beginner</small>
+                <small>
+                  <AiFillStar className='text-light'/>
+                  <AiFillStar className='text-light'/>
+                  <AiFillStar className='text-light'/>
+                  <AiOutlineStar className='text-light'/>
+                  <AiOutlineStar className='text-light'/>
+                </small>
+              </div>
+            </article>
+            <article className="experience__details">
+              <BsPatchCheckFill className='experience__details-icon'/>
+              <div>
+                <h4>Bootstrap</h4>
+                <small>
+                  <AiFillStar className='text-light'/>
+                  <AiFillStar className='text-light'/>
+                  <AiOutlineStar className='text-light'/>
+                  <AiOutlineStar className='text-light'/>
+                  <AiOutlineStar className='text-light'/>
+                </small>
+              </div>
+            </article>
+            <article className="experience__details">
+              <BsPatchCheckFill className='experience__details-icon'/>
+              <div>
+                <h4>Wordpress</h4>
+                <small>
+                  <AiFillStar className='text-light'/>
+                  <AiOutlineStar className='text-light'/>
+                  <AiOutlineStar className='text-light'/>
+                  <AiOutlineStar className='text-light'/>
+                  <AiOutlineStar className='text-light'/>
+                </small>
               </div>
             </article>
           </div>
@@ -61,43 +106,79 @@ const Experience = () => {
             <article className="experience__details">
               <BsPatchCheckFill className='experience__details-icon'/>
               <div>
-                <h4>PHP</h4>
-                <small className='text-light'>Ervaren</small>
+                <h4>PHP (OOP)</h4>
+                <small>
+                  <AiFillStar className='text-light'/>
+                  <AiFillStar className='text-light'/>
+                  <AiFillStar className='text-light'/>
+                  <AiFillStar className='text-light'/>
+                  <AiFillStar className='text-light'/>
+                </small>
               </div>
             </article>
             <article className="experience__details">
               <BsPatchCheckFill className='experience__details-icon'/>
               <div>
-                <h4>PHP OOP</h4>
-                <small className='text-light'>Bekwaam</small>
+                <h4>PHP Laravel</h4>
+                <small>
+                  <AiFillStar className='text-light'/>
+                  <AiFillStar className='text-light'/>
+                  <AiFillStar className='text-light'/>
+                  <AiOutlineStar className='text-light'/>
+                  <AiOutlineStar className='text-light'/>
+                </small>
               </div>
             </article>
             <article className="experience__details">
               <BsPatchCheckFill className='experience__details-icon'/>
               <div>
                 <h4>MySQL</h4>
-                <small className='text-light'>Bekwaam</small>
+                <small>
+                  <AiFillStar className='text-light'/>
+                  <AiFillStar className='text-light'/>
+                  <AiFillStar className='text-light'/>
+                  <AiOutlineStar className='text-light'/>
+                  <AiOutlineStar className='text-light'/>
+                </small>
               </div>
             </article>
             <article className="experience__details">
               <BsPatchCheckFill className='experience__details-icon'/>
               <div>
                 <h4>Java</h4>
-                <small className='text-light'>Bekwaam</small>
+                <small>
+                  <AiFillStar className='text-light'/>
+                  <AiFillStar className='text-light'/>
+                  <AiOutlineStar className='text-light'/>
+                  <AiOutlineStar className='text-light'/>
+                  <AiOutlineStar className='text-light'/>
+                </small>
               </div>
             </article>
             <article className="experience__details">
               <BsPatchCheckFill className='experience__details-icon'/>
               <div>
                 <h4>Ruby</h4>
-                <small className='text-light'>Beginnend</small>
+                <small>
+                  <AiFillStar className='text-light'/>
+                  <AiFillStar className='text-light'/>
+                  <AiOutlineStar className='text-light'/>
+                  <AiOutlineStar className='text-light'/>
+                  <AiOutlineStar className='text-light'/>
+                </small>
               </div>
             </article>
             <article className="experience__details">
               <BsPatchCheckFill className='experience__details-icon'/>
               <div>
                 <h4>Python</h4>
-                <small className='text-light'>Beginner</small>
+                <small>
+                  <AiFillStar className='text-light'/>
+                  <AiOutlineStar className='text-light'/>
+                  <AiOutlineStar className='text-light'/>
+                  <AiOutlineStar className='text-light'/>
+                  <AiOutlineStar className='text-light'/>
+                </small>
               </div>
             </article>
           </div>

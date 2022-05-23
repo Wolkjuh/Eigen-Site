@@ -1,6 +1,7 @@
 import React from 'react'
 import './services.css'
 import {BiCheck} from 'react-icons/bi'
+// import {FaTimes} from 'react-icons/fa'
 
 const Services = () => {
   return (
@@ -11,12 +12,11 @@ const Services = () => {
     <div className="container services__container">
       <article className="service">
         <div className="service__head">
-          <h3>Bronze</h3>
+          <h3>#SOON</h3>
         </div>
 
         <ul className="service__list">
           <li>
-            <BiCheck className='service__list_icon' />
             <p>#SOON</p>
           </li>
         </ul>
@@ -26,13 +26,40 @@ const Services = () => {
 
       <article className="service">
         <div className="service__head">
-          <h3>Diamond</h3>
+          <h3>Webapp</h3>
         </div>
 
         <ul className="service__list">
+        <li>
+            <BiCheck className='service__list_icon' />
+            <p>Meerdere Pagina's</p>
+          </li>
           <li>
             <BiCheck className='service__list_icon' />
-            <p>#SOON</p>
+            <p>HTML / CSS / JavaScript / PHP</p>
+          </li>
+          <li>
+            <BiCheck className='service__list_icon' />
+            <p>Responsive</p>
+          </li>
+          <li>
+            <BiCheck className='service__list_icon' />
+            <p>Database Inbegrepen</p>
+          </li>
+          <li>
+            <BiCheck className='service__list_icon' />
+            <p>Ontwerpingsmodellen</p>
+          </li>
+          <li>
+            <BiCheck className='service__list_icon' />
+            <p>Externe Verwerking (.pdf & .xlsl)</p>
+          </li>
+          <li>
+            <button className="btn btn-primary">
+              <a className='' href="#contact">
+                € 17.00 / Uur
+              </a>
+            </button>
           </li>
         </ul>
       </article>
@@ -41,12 +68,11 @@ const Services = () => {
 
       <article className="service">
         <div className="service__head">
-          <h3>Silver</h3>
+          <h3>#SOON</h3>
         </div>
 
         <ul className="service__list">
           <li>
-            <BiCheck className='service__list_icon' />
             <p>#SOON</p>
           </li>
         </ul>

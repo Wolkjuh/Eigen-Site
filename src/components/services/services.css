@@ -50,6 +50,14 @@
   font-size: 0.9rem;
 }
 
+.service__list a {
+  color: black;
+}
+
+.service__list a:hover {
+  color: black;
+}
+
 /* ================== Media (Medium) ================== */
 @media screen and (max-width: 1024px) {
   .services__container {

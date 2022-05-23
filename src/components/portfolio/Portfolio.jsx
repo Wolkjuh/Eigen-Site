@@ -2,6 +2,7 @@ import React from 'react'
 import './portfolio.css'
 import SOON from '../../assets/soon.jpg'
 import IMG1 from '../../assets/portfoliobartvwijk.png'
+import IMG2 from '../../assets/portfolioalaversnelling.png'
 
 const data = [
 
@@ -14,10 +15,10 @@ const data = [
   },
   {
     id: 2,
-    image: SOON,
-    title: '#SOON',
-    github: 'https://github.com',
-    demo: 'https://dribble.com'
+    image: IMG2,
+    title: 'MBO Versnelling',
+    github: 'https://github.com/Wolkjuh/ALA-Versnelling',
+    demo: ''
   },
   {
     id: 3,

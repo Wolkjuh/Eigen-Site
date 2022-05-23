@@ -41,10 +41,11 @@ const About = () => {
           </div>
             <p>
               Mijn naam is Bart van Wijk en ik ben 16 jaartjes jong. <br />
-              Ik ben freelancer op het gebied van web development maar sta in de avond achter de bar bij de Griek. <br />
+              Ik ben freelancer op het gebied van web development en ben op dit moment opzoek naar een stage.<br />
+              Hiernaast ben ik PHP Laravel en Vue.JS aan het leren. <br />
               <br />
               Ik doe een versnelde opleiding (MBO 4 Software Developer) en heb de ambitie om door te gaan naar het HBO. <br />
-              Ik ben nog op zoek naar een stageplek voor mijn versnelde opleiding. <br />
+              Op het HBO ben ik van plan Informaticate gaan doen.
             </p>
 
             <a href="#contact" className='btn btn-primary'>Let's Talk</a>
